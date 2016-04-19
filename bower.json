@@ -1,0 +1,21 @@
+{
+  "name": "GitHub",
+  "authors": [
+    "anikb92"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^3.5.16",
+    "jQuery": "^2.2.3"
+  }
+}
